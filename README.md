@@ -2,7 +2,7 @@
 - Name: Muradian Aikaz
 - Age: 35 years
 - Email: alspaladin@gmail.com
-- Education: Ural State University, computer science, bachelor degree
+- Education: Ural State University, computer science, bachelor degree (2010)
 - Location: Yerevan, Armenia
 - Languages: native Armenian, fluent English, native Russian
 - [Linkedin](https://www.linkedin.com/in/aikaz-muradian/)
@@ -70,5 +70,5 @@
    - 80k authors
    - terabytes of book data
    - lots of backend microservices with NodeJS
-   - frontend react.js and knockout.jsи
+   - frontend react.js and knockout.js
    - Docker, Teamcity and Jenkins for CI
