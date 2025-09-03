@@ -1,6 +1,6 @@
 ## About me
 - Name: Muradian Aikaz
-- Age: 35 years
+- Age: 37 years
 - Email: alspaladin@gmail.com
 - Education: Ural State University, computer science, bachelor degree (2010)
 - Location: Yerevan, Armenia
@@ -9,11 +9,11 @@
 - [Github](https://github.com/Alspaladin)
 - [Upwork](https://www.upwork.com/freelancers/~010cc44f8fae1a2e5e)
 
-#### Senior software developer and team lead with more than 13 years of experience with almost any popular web technology stack
+#### Senior software developer and team lead with 15 years of experience with almost any popular web technology stack
 
 ## Summary of skills:
 - 8 years backend web (TypeScript, NodeJS, Redis, Python, Ruby on Rails, Elastic, Kafka, RabbitMQ)
-- 5 years frontend web (NestJS, React, Angular, Redux, Firestore, NgRx, TS, Vanilla JS)
+- 7 years frontend web (NestJS, React, Angular, Redux, Firestore, NgRx, TS, Vanilla JS)
 - Experience with GCP, AWS, Docker, K8S, Firebase, Django, Ionic, Material UI
   Strong experience with all kinds of databases (PostgreSQL, MongoDB, MySQL, MSSQL, IndustrialSQL, Oracle, Sqlite)
 - CI and administration experience (managing GCP, AWS, creating Docker images, configuring Jenkins, Teamcity, NGINX, Sphinx)
